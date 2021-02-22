@@ -43,6 +43,9 @@ footer {
   padding: 20px 0 20px 0;
   flex-shrink: 0;
   background-color: gainsboro;
+  margin-top:calc(5% + 60px);
+  bottom: 0;
+  font-size: large;
 }
 
 header ul {
